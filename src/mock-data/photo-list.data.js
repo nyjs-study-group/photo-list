@@ -1,3 +1,4 @@
+
 export const photoList = [
     { 
         name: "man takes photo",

@@ -2,6 +2,8 @@
 import { Header } from './components/header/header.component';
 import { HeaderBlank } from './components/header/header-blank.component';
 
+import { PhotoList } from './components/photo-list/photo-list.component';
+
 // import logo from './logo.svg';
 // import './App.css';
 
@@ -11,144 +13,7 @@ function App() {
       <Header/>
       <HeaderBlank/>
       <div className="body container">
-        <p>hello</p>
-        <p>hi</p>
-        <p>bye</p>
-        <p>hello</p>
-        <p>hi</p>
-        <p>bye</p>
-        <p>hello</p>
-        <p>hi</p>
-        <p>bye</p>
-        <p>hello</p>
-        <p>hi</p>
-        <p>bye</p>
-        <p>hello</p>
-        <p>hi</p>
-        <p>bye</p>
-        <p>hello</p>
-        <p>hi</p>
-        <p>bye</p>
-        <p>hello</p>
-        <p>hi</p>
-        <p>bye</p>
-        <p>hello</p>
-        <p>hi</p>
-        <p>bye</p>
-        <p>hello</p>
-        <p>hi</p>
-        <p>bye</p>
-        <p>hello</p>
-        <p>hi</p>
-        <p>bye</p>
-        <p>hello</p>
-        <p>hi</p>
-        <p>bye</p>
-        hello
-        hi
-        good
-        hello
-        hi
-        good
-        hello
-        hi
-        good
-        hello
-        hi
-        good
-        hello
-        hi
-        good
-        hello
-        hi
-        good
-        hello
-        hi
-        good
-        hello
-        hi
-        good
-        hello
-        hi
-        good
-        hello
-        hi
-        good
-        hello
-        hi
-        good
-        hello
-        hi
-        good
-        hello
-        hi
-        good
-        hello
-        hi
-        good
-        hello
-        hi
-        good
-        hello
-        hi
-        good
-        hello
-        hi
-        good
-        hello
-        hi
-        good
-        hello
-        hi
-        good
-        hello
-        hi
-        good
-        hello
-        hi
-        good
-        hello
-        hi
-        good
-        hello
-        hi
-        good
-        hello
-        hi
-        good
-        hello
-        hi
-        good
-        hello
-        hi
-        good
-        hello
-        hi
-        good
-        hello
-        hi
-        good
-        hello
-        hi
-        good
-        hello
-        hi
-        good
-        hello
-        hi
-        good
-        hello
-        hi
-        good
-        hello
-        hi
-        good
-        hello
-        hi
-        good
-        hello
-        hi
-        good
+        <PhotoList/>
       </div>
     </>
   );
