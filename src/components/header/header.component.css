@@ -1,0 +1,11 @@
+
+.header.container {
+    background-color: aliceblue;
+    border: 1px solid red;
+    position: fixed;
+}
+
+h1 {
+    margin: 5px;
+    font-size: 1.5rem;
+}
