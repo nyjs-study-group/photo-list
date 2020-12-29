@@ -14,7 +14,7 @@ export const PhotoList = props => {
 
     return (
         <div className="container photo-list">
-          { PhotoItemSet }  
+          { PhotoItemSet }
         </div>
     )
 }

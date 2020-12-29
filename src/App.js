@@ -7,7 +7,7 @@ import { PhotoList } from './components/photo-list/photo-list.component';
 // import logo from './logo.svg';
 // import './App.css';
 
-function App() {
+export function App() {
   return (
     <>
       <Header/>
